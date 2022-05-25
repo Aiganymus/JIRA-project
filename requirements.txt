@@ -18,7 +18,7 @@ Markdown==3.0.1
 mccabe==0.6.1
 phonenumbers==8.10.17
 pydotplus==2.0.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.1.1
 pyparsing==2.2.1
 pytz==2018.5
